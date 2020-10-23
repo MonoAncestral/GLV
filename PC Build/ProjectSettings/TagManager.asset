@@ -15,9 +15,12 @@ TagManager:
   - FrameSupport2
   - Framerack
   - b
+<<<<<<< HEAD
   - cuerda
   - table
   - bola
+=======
+>>>>>>> parent of 46743410c... Cortar cuerda
   layers:
   - Default
   - TransparentFX
