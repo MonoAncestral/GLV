@@ -56,11 +56,14 @@
   </ItemGroup>
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <Compile Include="Assets\CableComponent\Scripts\CableComponent.cs" />
      <Compile Include="Assets\CableComponent\Scripts\CableParticle.cs" />
      <Compile Include="Assets\ColisionSoga.cs" />
      <Compile Include="Assets\Colision_bola.cs" />
      <Compile Include="Assets\Lanzamiento.cs" />
+=======
+>>>>>>> parent of 46743410c... Cortar cuerda
 =======
 >>>>>>> parent of 46743410c... Cortar cuerda
      <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />

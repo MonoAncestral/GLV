@@ -16,9 +16,12 @@ TagManager:
   - Framerack
   - b
 <<<<<<< HEAD
+<<<<<<< HEAD
   - cuerda
   - table
   - bola
+=======
+>>>>>>> parent of 46743410c... Cortar cuerda
 =======
 >>>>>>> parent of 46743410c... Cortar cuerda
   layers:
